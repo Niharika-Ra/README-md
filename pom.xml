@@ -28,7 +28,7 @@
         <groupId>org.openjfx</groupId>
         <artifactId>javafx-maven-plugin</artifactId>
         <version>${javafx.maven.plugin.version}</version>
-        <configuration> hi friends
+        <configuration> 
           <mainClass>HelloFX</mainClass>
         </configuration>
       </plugin>
